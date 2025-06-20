@@ -27,3 +27,10 @@ Bước 3: Chọn clan để cài bot vào
 - Node.js và npm
 - TypeScript
 - Cài đặt mezon sdk vào folder bot
+
+🆘 Hướng dẫn cài đặt môi trường và chạy bot
+- Cài đặt node.js và IDE để chạy TypeScript
+- Trong CMD, trỏ vào thư mục gốc của bot và chạy lệnh npm install mezon-sdk @nestjs/core @nestjs/common reflect-metadata để install sdk của mezon và các modules
+- Để chạy, trỏ vào thư mục gốc trong CMD và nhập npx ts-node src/index.ts để chạy
+
+---END---
