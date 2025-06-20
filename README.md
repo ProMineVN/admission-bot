@@ -22,8 +22,9 @@ Bước 3: Chọn clan để cài bot vào
 - *truong <mã trường> để xem thông tin về trường cần tra cứu
 - *nganh <khối thi> để xem gợi ý ngành
 - *diemchuan <mã trường> để xem điểm chuẩn của từng trường
-- *tuvantuyensinh hoặc là *tshelp để xem hướng dẫn
+- *tuvantuyensinh hoặc *tshelp để xem hướng dẫn
 
 ⚠️ Yêu cầu:
 - Node.js và npm
 - TypeScript
+- Cài đặt mezon sdk vào folder bot
