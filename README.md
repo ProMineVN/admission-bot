@@ -1,4 +1,3 @@
-README - Trợ lý Tuyển sinh
 Chào mừng bạn đến với chương trình Trợ lý Tuyển sinh! Đây là một ứng dụng giúp bạn tra cứu thông tin về các trường đại học, ngành học và điểm chuẩn xét tuyển, hỗ trợ quá trình tìm hiểu và lựa chọn nguyện vọng.
 
 🎯 Mục đích
